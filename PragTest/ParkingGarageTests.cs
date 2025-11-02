@@ -1,6 +1,7 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using PragueParking2._0;
 using System.Linq;
+using PragueParking.core;
 
 namespace PragueParking2._0.Tests
 {

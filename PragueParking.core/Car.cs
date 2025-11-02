@@ -1,6 +1,6 @@
 ﻿
 
-namespace PragueParking2._0
+namespace PragueParking.core
 {
     public class Car : Vehicle
     {

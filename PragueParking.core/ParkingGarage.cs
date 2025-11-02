@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using Spectre.Console;
 
-namespace PragueParking2._0
+namespace PragueParking.core
 {
     
     public class ParkingGarage

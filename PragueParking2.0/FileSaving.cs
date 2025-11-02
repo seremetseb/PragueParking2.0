@@ -2,6 +2,7 @@
 using System.IO;
 using System.Text.Json;
 using System.Text.Json.Serialization;
+using PragueParking.core;
 
 namespace PragueParking2._0
 {
