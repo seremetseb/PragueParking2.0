@@ -1,0 +1,16 @@
+﻿{
+  "TotalSpots": 100,
+  "VehicleTypes": [
+    {
+      "Type": "Car",
+      "Size": 4,
+      "PricePerHour": 20
+    },
+    {
+      "Type": "Mc",
+      "Size": 2,
+      "PricePerHour": 10
+    }
+  ],
+  "FreeMinutes": 10
+}
